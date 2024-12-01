@@ -1,0 +1,16 @@
+body {
+    background-color: coral;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    text-align: center;
+}
+table {
+    position: relative;
+    margin: 0 auto;
+}
+image {
+    width: 400 px;
+}
+
+ol {
+    display: inline;
+}
